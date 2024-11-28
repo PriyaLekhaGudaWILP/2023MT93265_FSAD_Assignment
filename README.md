@@ -3,6 +3,9 @@ This is the repository for Full stack Development course for BITS WILP program
 # Full-Stack Book Exchange Application
 This is a full-stack Book Exchange platform where users can list, search, and request exchanges of books. The application includes a frontend built with React and a backend built with .NET Framework 4.8. It also integrates with a database (SQL Server) to store and manage users, books, and exchanges.
 
+Front end runs on localhost:3000
+Backend runs on localhost:5243 (Please append swagger at the end for testing)
+
 ## Table of Contents
 1.Project Overview
 2.Features
